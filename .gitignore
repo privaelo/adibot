@@ -9,3 +9,5 @@ log/
 !.vscode/c_cpp_properties.json
 
 rviz/
+
+personal_notes.md
